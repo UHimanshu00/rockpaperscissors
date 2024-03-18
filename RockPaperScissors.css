@@ -1,0 +1,47 @@
+
+
+.header{
+    margin-top: 0;
+    
+    background-color: rgb(3, 3, 46);
+    font-size: 2rem;
+    padding: 4px;
+    color: white;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+
+.hero{
+    height:70vh;
+    width: 100%;
+    
+    text-align: center;
+    
+    
+
+}
+.hero button{
+    font-size: 4rem;
+    margin-top: 10%;
+    margin-left: 2%;
+    
+    
+}
+.hero button:hover{
+    cursor: pointer;
+}
+.score{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+.score p{
+    margin-left: 2rem;
+    margin-right: 2rem;
+    margin-top: 4rem;
+    font-size: 2rem;
+}
+
